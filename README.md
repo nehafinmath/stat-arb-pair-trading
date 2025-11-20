@@ -8,8 +8,7 @@ This repository demonstrates statistical arbitrage strategies in the UK equities
 - Provided visualizations for analysis.
 
 ## Files
-- `Statistical_Arbitrage_UK.ipynb` – Main Jupyter notebook with code and analysis.
-- `data/` – Folder containing datasets (if any).
+- `STAT ARB PAIR TRADE.ipynb` – Main Jupyter notebook with code and analysis.
 
 ## References
 - Avellaneda, M., & Lee, J.-H. (2010). Statistical Arbitrage in the U.S. Equities Market (model applied to UK equities).
